@@ -47,8 +47,8 @@ Welcome to our AI Virtual Desktop Assistant! This desktop application is designe
 ## Usage:
 
 1. Clone the repository.
-2. Install the dependencies using `pip install -r requirements.txt`.
-3. Run the application using `python main.py`.
+2. Install the dependencies using cmd terminal.
+3. Run the application using `python splash.py`.
 4. Explore the various features and interact with the assistant.
 
 ## Contributors:
