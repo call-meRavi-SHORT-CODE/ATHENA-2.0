@@ -44,21 +44,7 @@ Welcome to our AI Virtual Desktop Assistant! This desktop application is designe
 - pywhatkit
 - and more...
 
-## Usage:
 
-1. Clone the repository.
-2. Install the dependencies using cmd terminal.
-3. Run the application using `python splash.py`.
-4. Explore the various features and interact with the assistant.
 
-## Contributors:
-
-- ravikrishna
-
-## License:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 
