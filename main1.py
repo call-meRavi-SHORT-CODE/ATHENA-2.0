@@ -12,7 +12,7 @@ engine.setProperty('rate',180) # to change the rate value
 voices=engine.getProperty('voices') # it returns the list two voices
 engine.setProperty('voice',voices[1].id) # to get a female voice
 volume = engine.getProperty('volume')
-engine.setProperty('volume', volume+0.25)# to change the volumecd
+engine.setProperty('volume', volume+0.25)# to change the volume
 
 def speak(text):
     engine.say(text)
