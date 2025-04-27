@@ -29,7 +29,7 @@ def play_video():
         canvas.photo = photo  # Prevent garbage collection
     else:
         cap.set(cv2.CAP_PROP_POS_FRAMES, 0)  # Reset video to start
-    window.after(5,play_video)  # Change to approximately 30fps (1000ms / 30fps ≈ 33ms)
+    window.after(5,play_video)  
 
 
 
